@@ -1,0 +1,11 @@
+Algorithm,Array Size,Array Type,Number of Runs,Avg. Time Taken(s)
+Wrong Selection Sort,100000,Unsorted,10,49.4335
+Wrong Selection Sort,100000,Sorted,10,11.0186
+Right Selection Sort,100000,Unsorted,10,10.9685
+Right Selection Sort,100000,Sorted,10,10.9642
+Bubble Sort without Flag,100000,Unsorted,10,79.6545
+Bubble Sort without Flag,100000,Sorted,10,10.9627
+Flagged Bubble Sort,100000,Unsorted,10,80.6557
+Flagged Bubble Sort,100000,Sorted,10,0.0002473
+Insertion Sort,100000,Unsorted,10,5.44709
+Insertion Sort,100000,Sorted,10,0.00031715
